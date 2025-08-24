@@ -1,9 +1,8 @@
 <h1 align="center">📊 Personal Health Data Analysis</h1>
 
 <p align="center">
-![watch](https://github.com/user-attachments/assets/48c61c3d-96b6-4fc8-96c9-f6cd22ef18a9)
+![watch](https://github.com/user-attachments/assets/0dafa868-a890-495c-bd33-71aee3892095)
 </p>
-
 ---
 
 ## Introduction  
