@@ -1,7 +1,7 @@
 <h1 align="center">📊 Personal Health Data Analysis</h1>
 
 <p align="center">
-<img width="1300" height="1390" alt="image" src="https://github.com/user-attachments/assets/433c3fc1-3566-495e-97d1-660facb1e10d" />
+![watch](https://github.com/user-attachments/assets/48c61c3d-96b6-4fc8-96c9-f6cd22ef18a9)
 </p>
 
 ---
