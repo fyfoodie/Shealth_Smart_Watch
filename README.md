@@ -8,7 +8,7 @@
 
 ## Introduction  
 
-This project explores personal health data collected through the **Samsung Health app**, focusing mainly on **sleep patterns** and **heart rate trends**.  
+This project explores personal health data collected through Samsung Health app, focusing mainly on **sleep patterns** and **heart rate trends**.  
 The goal is to understand how daily habits, sleep quality, and heart activity vary over time, and what patterns can be drawn from them.  
 
 The dataset was exported from a personal device and analyzed to uncover meaningful insights into lifestyle and well-being.  
